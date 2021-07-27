@@ -1,0 +1,76 @@
+
+---:JavaScript:---
+
+what and why JSE?
+Strict mode
+Data Types
+Var Let const
+Hoisting
+Event Looping / code execution flow
+Higher order / First class functions
+Call Back functions
+Immediately Invoked functions
+Arrow functions
+Closure Why and usees
+Undefined vs not defined
+template Literals
+type casting and type conversion
+dif bw == and ===
+promises
+async and await
+call apply Bind
+Event bubbling, capturing and Event Delegation
+array methods
+local storage vs session storage
+Webpack
+babel and Polyfills
+Destructuring
+Garbage collections
+diff bw for each and map
+Function Currying
+Map and set
+generator functions
+
+
+---:React:---
+
+version - 16.8 (hooks) - current 17.0.2
+why react? advantages? dis--?
+life cycle methods
+steful and stateless - class and functional
+state in class componenets
+setstate - Asynchronus
+props - parent to child and viceversa
+diff bw state and props
+context API
+higher order components
+render props
+Reference in react
+hooks - why hooks?
+class or functional comp?
+strict mode in react
+fragments 
+why redux? - dataflow
+actions reducers store?
+middleware
+how to connect react with redux
+map state to props
+map dispatch to props
+useselector, usedispatch - no need connect to react
+React workflow
+
+
+---: JS programs :---
+Reverse of string and number
+Even and odd numbers
+Removing duplicates
+Prime number
+Palindrome
+Max and min
+sort asce and Desce
+Power of a number
+Factorail
+Axios and Fetch
+array methods
+fetch data from array of objects
+swapping numbers
