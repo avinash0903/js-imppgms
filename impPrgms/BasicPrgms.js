@@ -55,7 +55,7 @@ let colors = ['white', 'red', 'blue', 'blue'];
 color1 = [...new Set(colors)];
 console.log(color1);
 
-let uniq = colors.filter((i, index) => {
-  return colors.indexOf(i) == index;
+let uniq = colors.filter((item, pos) => {
+  return colors.indexOf(item) == pos;
 });
 console.log(uniq);
