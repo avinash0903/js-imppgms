@@ -59,3 +59,10 @@ let uniq = colors.filter((item, pos) => {
   return colors.indexOf(item) == pos;
 });
 console.log(uniq);
+
+//filtering the array elements which are not present in 2nd array
+const a = ['ab', 'bc', 'cd', 'ef'];
+const b = ['ef', 'ab'];
+
+const ab = a.filter(i => b.indexOf(i) === -1);
+console.log(ab);
