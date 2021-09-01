@@ -1,5 +1,5 @@
-const a = ["ab", "bc", "cd", "ef"];
-const b = ["ef", "ab"];
-
-const ab = a.filter( i => b.indexOf(i) === -1);
-console.log(ab);
+function isPalindrome(str) {
+  str = str.replace(/\W/g, '').toLowerCase();
+  return (str == str.split('').reverse().join(''));
+}
+console.log(isPalindrome('level'));
