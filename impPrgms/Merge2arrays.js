@@ -1,6 +1,6 @@
 const arr1 = [1, 3, 4, 5, 6, 8];
 const arr2 = [4, 6, 8, 9, 11];
-const mergeSortedArrays = (arr1, arr2) => {
+const mergeSortedArrays = (arr1 = [], arr2 = []) => {
   const res = [];
   let i = 0;
   let j = 0;
