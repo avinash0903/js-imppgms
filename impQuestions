@@ -74,3 +74,18 @@ Axios and Fetch
 array methods
 fetch data from array of objects
 swapping numbers
+
+
+
+
+
+arrow functions
+shallow copy and deep copy
+spread operator (shallow or deep)
+get the count of duplicate elements in an array
+shadow dom
+children prop
+observables
+effects in redux
+decorators react @
+use history

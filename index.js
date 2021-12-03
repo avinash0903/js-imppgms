@@ -1,11 +1,12 @@
-function longest(str) {
-  var string = str.split(' ');
-  var longestWord = 0;
-  for (let i = 0; i < string.length; i++) {
-    if (string[i].length > longestWord) {
-      longestWord = string[i].length;
-    }
+var x; 
+x = 10;
+
+function test()
+{
+  //var x;
+  if(x>20){
+    x = 50;
   }
-  return longestWord;
+  console.log(x);
 }
-console.log(longest('The quick brown fox jumped over the lazy dog'));
+test();
